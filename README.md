@@ -66,5 +66,5 @@ $ sudo npm start
 
 _Ивченко Вадим_
 
-> tel./viber/telegram: 097 790 97 51
+> tel./viber/telegram: 097 760 97 51
 > e-mail: vdmemory2@gmail.com
